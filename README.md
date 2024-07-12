@@ -1,4 +1,5 @@
-Week3: ImmoEliza Dataset Analysis Make beautiful visualisation
+#Week3: ImmoEliza Dataset Analysis Make beautiful visualisation
+
 Using pandas and data visualisation libraries (Matplotlib, Seaborn), let's establish conclusions about a dataset.
 
 This week's summary
