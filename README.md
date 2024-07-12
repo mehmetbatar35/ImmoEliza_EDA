@@ -180,5 +180,5 @@ Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collect
    Here is a quick introduction to our work: A map of all belgian's municipalities with their average construction year. 
   <img src="./img/Untitled.png">
 5.**Average price by construction year**
-   <img src="./img/22.png">
+   <img src="./img/output.png">
 
