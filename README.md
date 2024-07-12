@@ -171,7 +171,7 @@ Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collect
 
 - Here are some example visualizations that can help in understanding the dataset and the effects of imputation and outlier removal:
 1.**Number of houses per Area**
-  <img src="./img/HeatmapNofHouses.png"/>
+  <img src="./img/1.png"/>
 2.**Heatmap showing the correlation between all data**
   <img src="./img/heatmap_corr.png"/>
 3.**Average price by state**
