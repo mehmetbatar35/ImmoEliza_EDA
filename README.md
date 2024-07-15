@@ -175,7 +175,7 @@ Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collect
 2.**Average construction year per zip code**
 Here is a quick introduction to our work: A map of all belgian's municipalities with their average construction year. 
 <img src="./img/Untitled.png">
-3.**Number of houses per Area**
+3.**AVG Price according to District**
   <img src="./img/1.PNG"/>
 4.**Average price by state**
    <img src="./img/image.png"/>
