@@ -173,7 +173,7 @@ Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collect
 1.**Heatmap showing the correlation between all data**
      <img src="./img/heatmap_corr.png"/>
 2.**Price of per meter by District/Provinces/Region**
-    <img src="./img/a.png"/>     
+    <img src="./img/apng.png"/>     
      
 3.**Average price by state**
     <img src="./img/image.png"/>
