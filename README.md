@@ -175,20 +175,21 @@ Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collect
      
 2.**Relationship between Bedroom Count and Price**
     <img src="./img/bdc.png"/>
-     
-3.**Price of per meter by District/Provinces/Region**
+3.**Type of Property vs Price**
+    <img src="./img/type.png"/>     
+4.**Price of per meter by District/Provinces/Region**
     <img src="./img/Relationship between Living Area and Price.png"/>
        
-4.**Price of per meter by District/Provinces/Region**
+5.**Price of per meter by District/Provinces/Region**
     <img src="./img/apng.png"/>     
      
-5.**Average price by state**
+6.**Average price by state**
     <img src="./img/image.png"/>
     
-6.**Average price by construction year**
+7.**Average price by construction year**
     <img src="./img/output.png">
   
-7.**Average construction year per zip code**
+8.**Average construction year per zip code**
 Here is a quick introduction to our work: A map of all belgian's municipalities with their average construction year. 
    <img src="./img/Untitled.png">
    
