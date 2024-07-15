@@ -173,19 +173,22 @@ Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collect
 1.**Heatmap showing the correlation between all data**
      <img src="./img/heatmap_corr.png"/>
      
-2.**Price of per meter by District/Provinces/Region**
+2.**Relationship between Bedroom Count and Price**
+    <img src="./img/bdc.png"/>
+     
+3.**Price of per meter by District/Provinces/Region**
     <img src="./img/Relationship between Living Area and Price.png"/>
        
-3.**Price of per meter by District/Provinces/Region**
+4.**Price of per meter by District/Provinces/Region**
     <img src="./img/apng.png"/>     
      
-4.**Average price by state**
+5.**Average price by state**
     <img src="./img/image.png"/>
     
-5.**Average price by construction year**
+6.**Average price by construction year**
     <img src="./img/output.png">
   
-6.**Average construction year per zip code**
+7.**Average construction year per zip code**
 Here is a quick introduction to our work: A map of all belgian's municipalities with their average construction year. 
    <img src="./img/Untitled.png">
    
