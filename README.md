@@ -191,7 +191,7 @@ Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collect
   
 8.**Average construction year per zip code**
 Here is a quick introduction to our work: A map of all belgian's municipalities with their average construction year. 
-   <img src="./img/Untitled.png">
+   <img src="./img/newMap.png">
    
 7.**AVG Price according to District**
    <img src="./img/1.PNG"/>
