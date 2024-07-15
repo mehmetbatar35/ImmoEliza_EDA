@@ -27,7 +27,7 @@ Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collect
 
 - Here are some example visualizations that can help in understanding the dataset and the effects of imputation and outlier removal:
 1.**Heatmap showing the correlation between all data**
-     <img src="./img/heatmap_corr.png"/>
+     <img src="./img/2.png"/>
      
 2.**Relationship between Bedroom Count and Price**
     <img src="./img/bdc.png"/>
