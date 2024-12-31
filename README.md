@@ -23,6 +23,38 @@ Ezgi <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collecting
 Mehmet <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collecting-data/master/docs/arrow.svg" width="12"> https://github.com/mehmetbatar35  <br/>
 Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collecting-data/master/docs/arrow.svg" width="12"> https://github.com/ziadoonAlobaidi/ 
 
+## Visuals
+
+- Here are some example visualizations that can help in understanding the dataset and the effects of imputation and outlier removal:
+1.**Heatmap showing the correlation between all data**
+     <img src="./img/2.png"/>
+     
+
+2.**Type of Property vs Price**
+    <img src="./img/type.png"/>  
+    
+3.**Type of Kitchen vs Price**
+    <img src="./img/kitchen.png"/>  
+4.**Price of per meter by District/Provinces/Region**
+    <img src="./img/Relationship between Living Area and Price.png"/>
+       
+5.**Price of per meter by District/Provinces/Region**
+    <img src="./img/apng.png"/>     
+     
+6.**Average price by state**
+    <img src="./img/image.png"/>
+    
+7.**Average price by construction year**
+    <img src="./img/output.png">
+  
+8.**Average construction year per zip code**
+Here is a quick introduction to our work: A map of all belgian's municipalities with their average construction year. 
+   <img src="./img/newMap.png">
+   
+9.**AVG Price according to District**
+   <img src="./img/1.PNG"/>
+
+   
 ## Timeline
 
 - **Day 1:** Data exploration and initial cleaning
@@ -167,18 +199,6 @@ Ziadoon <img src="https://raw.githubusercontent.com/Joffreybvn/challenge-collect
    most_correlated_column = price_correlation.idxmax()
    ```
    By executing this code, the most correlated column is living area and then the bedrooms count
-## Visuals
 
-- Here are some example visualizations that can help in understanding the dataset and the effects of imputation and outlier removal:
-1.**Number of houses per Area**
-  <img src="./img/HeatmapNofHouses.png"/>
-2.**Heatmap showing the correlation between all data**
-  <img src="./img/heatmap_corr.png"/>
-3.**Average price by state**
-   <img src="./img/image.png"/>
-4.**Average construction year per zip code**
-   Here is a quick introduction to our work: A map of all belgian's municipalities with their average construction year. 
-  <img src="./img/Untitled.png">
-5.**Average price by construction year**
-   <img src="./img/22.png">
+
 
